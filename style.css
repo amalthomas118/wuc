@@ -1,0 +1,1044 @@
+.main_body {
+    width: 1920px;
+    height: 4498px;
+}
+
+.page-1 {
+    width: 1920px;
+    height: 759px;
+    background-image: url("file:///D:/Practise/WUC/WUC%20assets/Banner-1.png");
+}
+
+.header {
+    width: 1920px;
+    height: 108px;
+    background-color: #fff;
+    align-items: center;
+}
+
+.logo {
+    width: 328px;
+    height: 81px;
+    margin-left: 376px;
+    margin-top: 13px;
+    display: inline-block;
+}
+
+.sponsors {
+    width: 542px;
+    height: 79px;
+    margin: 14px 79px 15px 297px;
+    display: inline-block;
+}
+
+.navi {
+    height: 78px;
+    padding: 28px 465px 27px 464px;
+    /* opacity: 0.2; */
+}
+
+.home {
+    width: 32px;
+    height: 9px;
+    margin: 4px 41px 6px 41px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.about {
+    width: 34px;
+    height: 9px;
+    margin: 4px 41px 6px 41px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.exhibition {
+    width: 56px;
+    height: 10px;
+    margin: 4px 41px 6px 41px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Conference {
+    width: 66px;
+    height: 9px;
+    margin: 4px 41px 6px 41px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Sponsorship {
+    width: 71px;
+    height: 13px;
+    margin: 4px 41px 6px 41px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Visit {
+    width: 25px;
+    height: 10px;
+    margin: 4px 41px 9px 41px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Press {
+    width: 91px;
+    height: 10px;
+    margin: 4px 41px 9px 41px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.heading {
+    width: 707px;
+    height: 182px;
+    margin: 0 14px 40px 337px;
+    font-family: Barlow;
+    font-size: 58px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.line2 {
+    width: 590px;
+    height: 14px;
+    margin: 0px 0px 0px 398px;
+    display: inline-block;
+}
+
+.location-img {
+    width: 12px;
+    height: 15px;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    color: #fff;
+}
+
+.abudhabi {
+    width: 300px;
+    height: 14px;
+    margin: 41px 26px 0px 10px;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+    display: inline-block;
+}
+
+.clock-img {
+    width: 12px;
+    height: 15px;
+}
+
+.timedate {
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+.button1 {
+    width: 400px;
+    height: 27px;
+    margin: 128px 0px 0px 376px;
+}
+
+.btn-1 {
+    width: 184px;
+    height: 27px;
+    font-family: Barlow;
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    background-color: #3abb9d;
+    border: 0px;
+    cursor: pointer;
+}
+
+.btn-2 {
+    width: 95px;
+    height: 27px;
+    font-family: Barlow;
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    left: 576px;
+    background-color: transparent;
+    border: 2px solid #3abb9d;
+    cursor: pointer;
+}
+
+.swiper {
+    width: 600px;
+    height: 115px;
+}
+
+.page-2 {
+    height: 482px;
+    width: 100%;
+}
+
+.video {
+    height: 394px;
+    width: 640px;
+    padding: 38px 0px 0px 0px;
+    border: 0px solid;
+    margin: 0px 0px 0px 386px;
+    display: inline-block;
+}
+
+.about {
+    width: 47px;
+    height: 12px;
+    margin: 0px 2px 5px 5px;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    position: absolute;
+    left: 1101px;
+    top: 851px;
+    text-transform: uppercase;
+}
+
+.World_Utilities_Congress {
+    font-family: Barlow;
+    text-transform: uppercase;
+    font-size: 33px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3abb9d;
+    position: absolute;
+    top: 878px;
+    left: 1101px;
+}
+
+.line {
+    position: absolute;
+    top: 915px;
+    left: 1101px;
+    font-weight: bolder;
+    color: #419bf9;
+    ;
+}
+
+.descrip-box {
+    width: 406px;
+    height: 103px;
+    display: inline-block;
+    position: absolute;
+    top: 950px;
+    left: 1101px;
+    font-family: Barlow;
+    color: #333;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.btnlm {
+    width: 149px;
+    height: 27px;
+    border: 1px solid #3abb9d;
+    text-align: center;
+    background: url('file:///D:/Practise/WUC/WUC%20assets/arrow.png')right center no-repeat;
+    display: inline-block;
+    position: absolute;
+    left: 1101px;
+    top: 1120px;
+}
+
+.page-3 {
+    width: 100%;
+    height: 804px;
+    font-family: Barlow;
+    background-image: url("file:///D:/Practise/WUC/WUC%20assets/banner.png");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.counters {
+    color: #fff;
+    font-family: Barlow;
+    font-size: 59px;
+    font-weight: bold;
+}
+
+.headings {
+    font-family: Barlow;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.counters .container {
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+}
+
+.page-4 {
+    height: 770px;
+    width: 100%;
+    flex: 2;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.eventOverview {
+    align-content: center;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.event-Overview {
+    width: 156px;
+    height: 52px;
+    margin: 77px 63px 16px 10px;
+    font-family: Barlow;
+    font-size: 33px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #3abb9d;
+    text-transform: uppercase;
+    align-content: center;
+    margin: 77px auto;
+}
+
+.event-Overview .text-style-1 {
+    font-size: 15px;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    color: #333;
+    text-align: center;
+    justify-content: center;
+    text-transform: uppercase;
+    align-content: center;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.pictures {
+    width: 367px;
+    height: 278px;
+}
+
+.titles {
+    color: #3abb9d;
+    margin: 25px 0px 42px 0px;
+    font-family: Barlow;
+    font-size: 20px;
+}
+
+.describbox {
+    width: 341px;
+    height: 55px;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 300;
+    margin: 0px;
+}
+
+.line-1 {
+    color: #419bf9;
+    position: absolute;
+    top: 335px;
+    font-weight: 900;
+}
+
+.line-2 {
+    color: #419bf9;
+    position: absolute;
+    top: 335px;
+    font-weight: 900;
+}
+
+.line-3 {
+    color: #419bf9;
+    position: absolute;
+    top: 335px;
+    font-weight: 900;
+}
+
+.picture {
+    height: 550px;
+    position: absolute;
+    top: 2264px;
+    left: 375px;
+}
+
+.picture .pics {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 35px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.btnlm-1 {
+    width: 149px;
+    height: 27px;
+    border: 1px solid #3abb9d;
+    text-align: center;
+    background: url('file:///D:/Practise/WUC/WUC%20assets/arrow.png')right center no-repeat;
+    position: absolute;
+    top: 495px;
+}
+
+.btnlm-2 {
+    width: 149px;
+    height: 27px;
+    border: 1px solid #3abb9d;
+    text-align: center;
+    background: url('file:///D:/Practise/WUC/WUC%20assets/arrow.png')right center no-repeat;
+    position: absolute;
+    top: 495px;
+}
+
+.btnlm-3 {
+    width: 149px;
+    height: 27px;
+    border: 1px solid #3abb9d;
+    text-align: center;
+    background: url('file:///D:/Practise/WUC/WUC%20assets/arrow.png')right center no-repeat;
+    position: absolute;
+    top: 495px;
+}
+
+.page-5 {
+    height: 699px;
+}
+
+.WUCCS {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 81px auto;
+}
+
+.line-4 {
+    color: #419bf9;
+    font-weight: 900;
+}
+
+.world-utilities-congress-core-sectors {
+    width: fit-content;
+    height: 52px;
+    margin: 0 208px 16px 207px;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+}
+
+.world-utilities-congress-core-sectors .text-style-1 {
+    font-size: 33px;
+    color: #3abb9d;
+}
+
+.tile {
+    position: absolute;
+    top: 3058px;
+    left: 375px;
+}
+
+.tile .tiles {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 35px;
+    align-items: center;
+}
+
+.para {
+    width: 208px;
+    height: 147px;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 300;
+    color: #333;
+    line-height: 1.47;
+    margin: 26px 0px 0px 29px;
+}
+
+.tilepic {
+    width: 60px;
+    height: 74px;
+    align-content: center;
+    align-items: center;
+    margin: auto 102px;
+}
+
+.gradient {
+    width: 266px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Barlow;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(#0dcfda, #419bf9);
+    padding-top: 5px;
+    margin: 26px auto;
+}
+
+.readmore1 {
+    width: 94px;
+    height: 27px;
+    background-image: linear-gradient(#0dcfda, #419bf9);
+    font-family: Barlow;
+    font-size: 12px;
+    font-weight: 500;
+    color: #fff;
+    border: 1px solid #0dcfda;
+    position: absolute;
+    top: 355px;
+    left: 85px;
+    cursor: pointer;
+}
+
+.readmore2 {
+    width: 94px;
+    height: 27px;
+    background-image: linear-gradient(#0dcfda, #419bf9);
+    font-family: Barlow;
+    font-size: 12px;
+    font-weight: 500;
+    color: #fff;
+    border: 1px solid #0dcfda;
+    position: absolute;
+    top: 355px;
+    left: 380px;
+    cursor: pointer;
+}
+
+.readmore3 {
+    width: 94px;
+    height: 27px;
+    background-image: linear-gradient(#0dcfda, #419bf9);
+    font-family: Barlow;
+    font-size: 12px;
+    font-weight: 500;
+    color: #fff;
+    border: 1px solid #0dcfda;
+    position: absolute;
+    top: 355px;
+    left: 680px;
+    cursor: pointer;
+}
+
+.readmore4 {
+    width: 94px;
+    height: 27px;
+    background-image: linear-gradient(#0dcfda, #419bf9);
+    font-family: Barlow;
+    font-size: 12px;
+    font-weight: 500;
+    color: #fff;
+    border: 1px solid #0dcfda;
+    position: absolute;
+    top: 355px;
+    left: 990px;
+    cursor: pointer;
+}
+
+.page-6 {
+    height: 480px;
+    width: auto;
+    background-image: url("file:///D:/Practise/WUC/WUC%20assets/bg.png");
+}
+
+.inputpage {
+    position: absolute;
+    top: 3714px;
+    left: 372px;
+}
+
+.inputpg .inputpage {
+    display: flex;
+    flex-direction: row;
+}
+
+.subscribe {
+    width: 570px;
+    height: 38px;
+    font-family: Barlow;
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    margin: 0px 0px 35px 0px;
+}
+
+.the-world {
+    width: 512px;
+    height: 156px;
+    font-family: Barlow;
+    font-size: 24px;
+    font-weight: 300;
+    color: #fff;
+    font-stretch: normal;
+    font-style: normal;
+}
+
+.box {
+    margin: 60px 0px 0px 231px;
+}
+
+.inputfield1 {
+    width: 453px;
+    height: 46px;
+}
+
+.inputfield2 {
+    width: 453px;
+    height: 46px;
+    margin: 28px auto;
+}
+
+.subscribebtn {
+    width: 114px;
+    height: 27px;
+    font-family: Barlow;
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    background-color: #0dcfda;
+    padding: 12px 0px 0px 0px;
+    cursor: pointer;
+}
+
+.page-7 {
+    height: 292px;
+}
+
+.calender {
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+.Opening-Times {
+    width: 111px;
+    height: 17px;
+    font-family: Barlow;
+    font-size: 17px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3abb9d;
+    float: left;
+    padding-left: 10px;
+}
+
+.pin {
+    width: 20px;
+    height: 17px;
+    display: inline-block;
+}
+
+.Quick-Links {
+    width: 86px;
+    height: 15px;
+    margin: 33px 56px 6px 10px;
+    font-family: Barlow;
+    font-size: 17px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3abb9d;
+    /*display: inline-block;*/
+}
+
+.contact {
+    width: 20px;
+    height: 15px;
+    display: inline-block;
+}
+
+.Contact-Us {
+    width: 82px;
+    height: 14px;
+    margin: 33px 13px 7px 0px;
+    font-family: Barlow;
+    font-size: 17px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3abb9d;
+}
+
+.dmg-events-Global-Energy-Portfolio {
+    width: 126px;
+    height: 28px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333;
+    display: block;
+    margin-left: 38px;
+}
+
+.Sunday-29th-August-1000AM---600PM-Monday-30th-August-1000 {
+    width: 259px;
+    height: 107px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+    display: inline-block;
+    padding-top: 25px;
+    line-height: 25px;
+    letter-spacing: normal;
+}
+
+.Sunday-29th-August-1000AM---600PM-Monday-30th-August-1000 .text-style-1 {
+    font-weight: 300;
+}
+
+.quick-links {
+    width: 259px;
+    height: 107px;
+    display: inline-block;
+}
+
+.Download-the-2020-event-brochure {
+    width: 192px;
+    height: 11px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+    padding-top: 20px;
+}
+
+.Book-a-Stand-1 {
+    width: 71px;
+    height: 11px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+}
+
+.book-line {
+    width: 76px;
+    height: 1px;
+    background-color: #1ec38b;
+}
+
+.Sponsorship-enquiry {
+    width: 115px;
+    height: 13px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+}
+
+.spon-line {
+    width: 117px;
+    height: 1px;
+    background-color: #1ec38b;
+}
+
+.Register-your-interest-to-visit {
+    width: 160px;
+    height: 13px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+}
+
+.register-line {
+    width: 163px;
+    height: 1px;
+    background-color: #1ec38b;
+}
+
+.Sales-Enquiry-wucsalesdmgeventscom-Conference-Enquiry-wucc {
+    width: 195px;
+    height: 169px;
+    font-family: Barlow;
+    font-size: 13px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+    display: grid;
+    margin: 21px 0px;
+}
+
+.Sales-Enquiry-wucsalesdmgeventscom-Conference-Enquiry-wucc .text-style-1 {
+    font-weight: bold;
+}
+
+.dmg-events-logo {
+    width: 112px;
+    height: 18px;
+    margin: 19px 67px 12px 90px;
+    display: inline-block;
+}
+
+.ipe-logo {
+    width: 96px;
+    height: 44px;
+    /*margin: 4px 389px 1px 64px;*/
+    display: inline-block;
+}
+
+.Follow-us {
+    width: 70px;
+    height: 13px;
+    margin: 30px 3px 10px 376px;
+    font-family: Barlow;
+    font-size: 17px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3abb9d;
+    display: block;
+}
+
+.twitter {
+    width: 31px;
+    height: 31px;
+    padding-top: 24px;
+    float: left;
+}
+
+.facebook {
+    width: 31px;
+    height: 31px;
+    float: left;
+    padding-top: 24px;
+}
+
+.linkedin {
+    width: 31px;
+    height: 31px;
+    float: left;
+    padding-top: 24px;
+}
+
+.box-11 {
+    width: 259px;
+    height: 153px;
+    margin-left: 375px;
+    margin-top: 30px;
+    float: left;
+}
+
+.box-12 {
+    width: 186px;
+    height: 153px;
+    margin-left: 92px;
+    margin-top: 30px;
+    float: left;
+    line-height: 25px;
+}
+
+.download-line {
+    height: 1px;
+    background-color: #1ec38b;
+}
+
+.box-13 {
+    width: 230px;
+    height: 218px;
+    margin-left: 92px;
+    margin-top: 30px;
+    float: left;
+}
+
+.box-14 {
+    width: 136px;
+    height: 64px;
+    float: left;
+    margin-left: 92px;
+    margin-top: 30px;
+}
+
+.box-15 {
+    width: 197px;
+    height: 141px;
+    float: left;
+    margin-left: 92px;
+    margin-top: 30px;
+}
+
+.box-16 {
+    width: 110px;
+    height: 62px;
+    margin-left: 376px;
+    margin-top: 203px;
+}
